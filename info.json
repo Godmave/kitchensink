@@ -1,0 +1,11 @@
+
+{
+  "name": "kitchensink",
+  "title": "Factorio Style Kitchensink (0.17)",
+  "version": "0.0.2",
+  "date": "28-02-2019",
+  "author": "Godmave",
+  "dependencies": ["base >= 0.17"],
+  "factorio_version": "0.17",
+  "description": "Preview of pre-defined styles and icons"
+}
