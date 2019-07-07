@@ -560,14 +560,6 @@ data_styles =
                     parent = "label",
                     font_color = warning_red_color
                 },
-                scenario_message_dialog_label=
-                {
-                    type = "label_style",
-                    parent = "label",
-                    font = "scenario-message-dialog",
-                    maximal_width = 500,
-                    font_color = {r=255,g=174,b=24},
-                },
                 goal_label =
                 {
                     type = "label_style",
