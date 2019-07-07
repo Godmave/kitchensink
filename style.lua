@@ -491,12 +491,6 @@ data_styles =
                     clicked_font_color = default_orange_color
                 },
 
-                label_in_table = -- pushed up a little for centering
-                {
-                    type = "label_style",
-                    top_padding = -2,
-                    bottom_padding = 2
-                },
                 bold_label =
                 {
                     type = "label_style",

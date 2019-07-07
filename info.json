@@ -2,8 +2,8 @@
 {
   "name": "kitchensink",
   "title": "Factorio Style Kitchensink (0.17)",
-  "version": "0.0.2",
-  "date": "28-02-2019",
+  "version": "0.0.3",
+  "date": "07-07-2019",
   "author": "Godmave",
   "dependencies": ["base >= 0.17"],
   "factorio_version": "0.17",
